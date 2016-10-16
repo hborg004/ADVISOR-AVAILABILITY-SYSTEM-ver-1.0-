@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>PHP form select box example</title>
+	<title>Advisor Status Change Page</title>
 <!-- define some style elements-->
 <style>
 label,a 
